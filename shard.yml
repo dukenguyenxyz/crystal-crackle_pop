@@ -1,0 +1,13 @@
+name: crackle_pop
+version: 0.1.0
+
+authors:
+  - Duke Nguyen <duke.raphael.ng@gmail.com>
+
+targets:
+  crackle_pop:
+    main: src/crackle_pop.cr
+
+crystal: 1.0.0
+
+license: MIT
